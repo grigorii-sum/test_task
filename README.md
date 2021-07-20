@@ -1,2 +1,7 @@
-# test_task
-Repo for test task (python script for "ГосУслуги")
+# Repo for test task (python script for "ГосУслуги")
+
+Для корректной работы программы нужно:
+1) Написать свои LOGIN и PASSWORD для портала ГосУслуги
+2) Создать и активировать виртуальное окружение
+3) Скачать WebDriver
+4) Запустить скрипт
